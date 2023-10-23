@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.Main{
+	background:#f5f5f5;
+	padding:0px 5px;
+}
+.testimonial{
+	background:#f5f5f5;
+	padding:2px;
+	border:solid;
+	text-align:right;
+}
+p{
+	text-align:right;
+	
+}
