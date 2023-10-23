@@ -4,14 +4,14 @@ Main{
 	padding:0px 5px;
 	height:250px
 }
-Testimonial{
+.testimonial{
 	background:#f5f5f5;
 	padding:2px;
 	border:solid;
 	margin:5px;
 
 }
-Author{
+.Author{
 	text-align:right;
 	font-style:italic;
 	
